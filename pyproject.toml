@@ -1,0 +1,14 @@
+[project]
+name = "etender-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flake8>=7.4.1",
+    "pydantic>=2.14.1",
+    "pytest>=9.1.1",
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+    "ruff>=0.17.2",
+]

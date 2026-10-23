@@ -1,0 +1,46 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.pytest_cache/
+
+# Virtual environments
+.venv
+venv/
+
+# Local sensitive environment configuration
+.env
+.env.example
+
+# Generated data and logs
+output/
+logs/
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# User-specific or Local Configurations
+.env
+.project
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
